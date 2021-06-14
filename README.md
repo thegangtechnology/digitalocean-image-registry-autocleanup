@@ -1,0 +1,1 @@
+# digitalocean-image-registry-autocleanup
